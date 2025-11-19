@@ -1,2 +1,1 @@
-Exploring the inference of outcome dependency and recency effects in repeated decision-making<br>
-Internship Pproject @MPIB
+An exploration of the inference of outcome dependency and recency effects in repeated decision-making using the recently compiled Berlin [Decision-from-Experience] Database(https://drive.google.com/file/d/1Ps0Vp5G8pRg10hLWAKDPWT4vFikqiqmc/view)<br>
